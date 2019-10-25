@@ -1,0 +1,4 @@
+Categoría: uno
+         NOMBRE                   DIRECCION    TELEFONO
+            uno                         uno       11111
+            dos                         dos        2222

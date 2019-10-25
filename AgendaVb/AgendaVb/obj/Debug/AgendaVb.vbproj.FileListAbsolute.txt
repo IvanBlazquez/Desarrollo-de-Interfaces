@@ -1,0 +1,13 @@
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\AgendaVb\AgendaVb\bin\Debug\AgendaVb.exe.config
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\AgendaVb\AgendaVb\bin\Debug\AgendaVb.exe
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\AgendaVb\AgendaVb\bin\Debug\AgendaVb.pdb
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\AgendaVb\AgendaVb\bin\Debug\AgendaVb.xml
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\AgendaVb\AgendaVb\obj\Debug\AgendaVb.vbprojAssemblyReference.cache
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\AgendaVb\AgendaVb\obj\Debug\AgendaVb.Form1.resources
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\AgendaVb\AgendaVb\obj\Debug\AgendaVb.frmNuevo.resources
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\AgendaVb\AgendaVb\obj\Debug\AgendaVb.Resources.resources
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\AgendaVb\AgendaVb\obj\Debug\AgendaVb.vbproj.GenerateResource.cache
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\AgendaVb\AgendaVb\obj\Debug\AgendaVb.vbproj.CoreCompileInputs.cache
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\AgendaVb\AgendaVb\obj\Debug\AgendaVb.exe
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\AgendaVb\AgendaVb\obj\Debug\AgendaVb.xml
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\AgendaVb\AgendaVb\obj\Debug\AgendaVb.pdb

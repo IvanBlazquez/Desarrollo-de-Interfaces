@@ -1,0 +1,11 @@
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\BFor\BFor\bin\Debug\BFor.exe.config
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\BFor\BFor\bin\Debug\BFor.exe
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\BFor\BFor\bin\Debug\BFor.pdb
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\BFor\BFor\bin\Debug\BFor.xml
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\BFor\BFor\obj\Debug\BFor.vbprojAssemblyReference.cache
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\BFor\BFor\obj\Debug\BFor.Resources.resources
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\BFor\BFor\obj\Debug\BFor.vbproj.GenerateResource.cache
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\BFor\BFor\obj\Debug\BFor.vbproj.CoreCompileInputs.cache
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\BFor\BFor\obj\Debug\BFor.exe
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\BFor\BFor\obj\Debug\BFor.xml
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\BFor\BFor\obj\Debug\BFor.pdb
