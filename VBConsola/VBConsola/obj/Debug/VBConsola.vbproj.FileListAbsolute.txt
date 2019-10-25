@@ -1,0 +1,11 @@
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\VBConsola\VBConsola\bin\Debug\VBConsola.exe.config
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\VBConsola\VBConsola\bin\Debug\VBConsola.exe
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\VBConsola\VBConsola\bin\Debug\VBConsola.pdb
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\VBConsola\VBConsola\bin\Debug\VBConsola.xml
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\VBConsola\VBConsola\obj\Debug\VBConsola.vbprojAssemblyReference.cache
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\VBConsola\VBConsola\obj\Debug\VBConsola.Resources.resources
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\VBConsola\VBConsola\obj\Debug\VBConsola.vbproj.GenerateResource.cache
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\VBConsola\VBConsola\obj\Debug\VBConsola.vbproj.CoreCompileInputs.cache
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\VBConsola\VBConsola\obj\Debug\VBConsola.exe
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\VBConsola\VBConsola\obj\Debug\VBConsola.xml
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\VBConsola\VBConsola\obj\Debug\VBConsola.pdb
