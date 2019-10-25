@@ -1,0 +1,12 @@
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas1\Tablas-1\bin\Debug\Tablas-1.exe.config
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas1\Tablas-1\bin\Debug\Tablas-1.exe
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas1\Tablas-1\bin\Debug\Tablas-1.pdb
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas1\Tablas-1\bin\Debug\Tablas-1.xml
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas1\Tablas-1\obj\Debug\Tablas-1.vbprojAssemblyReference.cache
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas1\Tablas-1\obj\Debug\Tablas_1.Form1.resources
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas1\Tablas-1\obj\Debug\Tablas_1.Resources.resources
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas1\Tablas-1\obj\Debug\Tablas-1.vbproj.GenerateResource.cache
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas1\Tablas-1\obj\Debug\Tablas-1.vbproj.CoreCompileInputs.cache
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas1\Tablas-1\obj\Debug\Tablas-1.exe
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas1\Tablas-1\obj\Debug\Tablas-1.xml
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas1\Tablas-1\obj\Debug\Tablas-1.pdb

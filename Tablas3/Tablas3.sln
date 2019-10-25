@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tablas3", "Tablas3\Tablas3.vbproj", "{F44D9C90-2E11-4F8E-898A-4CF84EF71DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F44D9C90-2E11-4F8E-898A-4CF84EF71DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44D9C90-2E11-4F8E-898A-4CF84EF71DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44D9C90-2E11-4F8E-898A-4CF84EF71DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44D9C90-2E11-4F8E-898A-4CF84EF71DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78FB659C-5F53-4CFB-9EA1-A45AF651CC6C}
+	EndGlobalSection
+EndGlobal

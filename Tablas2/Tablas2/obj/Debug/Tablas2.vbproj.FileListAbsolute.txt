@@ -1,0 +1,12 @@
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas2\Tablas2\bin\Debug\Tablas2.exe.config
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas2\Tablas2\bin\Debug\Tablas2.exe
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas2\Tablas2\bin\Debug\Tablas2.pdb
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas2\Tablas2\bin\Debug\Tablas2.xml
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas2\Tablas2\obj\Debug\Tablas2.vbprojAssemblyReference.cache
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas2\Tablas2\obj\Debug\Tablas2.Form1.resources
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas2\Tablas2\obj\Debug\Tablas2.Resources.resources
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas2\Tablas2\obj\Debug\Tablas2.vbproj.GenerateResource.cache
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas2\Tablas2\obj\Debug\Tablas2.vbproj.CoreCompileInputs.cache
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas2\Tablas2\obj\Debug\Tablas2.exe
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas2\Tablas2\obj\Debug\Tablas2.xml
+D:\DAM-2\DOCUMENTOS\DESARROLLO_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\Tablas2\Tablas2\obj\Debug\Tablas2.pdb
