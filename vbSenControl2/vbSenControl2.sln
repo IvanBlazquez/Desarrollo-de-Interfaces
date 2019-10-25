@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "vbSenControl2", "vbSenControl2\vbSenControl2.vbproj", "{F203E04E-5C9D-4B0B-BBAD-9F9B06E13216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F203E04E-5C9D-4B0B-BBAD-9F9B06E13216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F203E04E-5C9D-4B0B-BBAD-9F9B06E13216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F203E04E-5C9D-4B0B-BBAD-9F9B06E13216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F203E04E-5C9D-4B0B-BBAD-9F9B06E13216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48940978-176B-4F24-AF6D-03310D0641C4}
+	EndGlobalSection
+EndGlobal

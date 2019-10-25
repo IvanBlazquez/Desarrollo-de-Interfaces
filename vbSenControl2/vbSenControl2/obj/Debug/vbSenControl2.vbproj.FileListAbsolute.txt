@@ -1,0 +1,15 @@
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\vbSenControl2\vbSenControl2\bin\Debug\vbSenControl2.exe.config
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\vbSenControl2\vbSenControl2\bin\Debug\vbSenControl2.exe
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\vbSenControl2\vbSenControl2\bin\Debug\vbSenControl2.pdb
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\vbSenControl2\vbSenControl2\bin\Debug\vbSenControl2.xml
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\vbSenControl2\vbSenControl2\obj\Debug\vbSenControl2.vbprojAssemblyReference.cache
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\vbSenControl2\vbSenControl2\obj\Debug\vbSenControl2.Ejercicio3.resources
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\vbSenControl2\vbSenControl2\obj\Debug\vbSenControl2.Resources.resources
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\vbSenControl2\vbSenControl2\obj\Debug\vbSenControl2.VentanaPrincipal.resources
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\vbSenControl2\vbSenControl2\obj\Debug\vbSenControl2.vbproj.GenerateResource.cache
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\vbSenControl2\vbSenControl2\obj\Debug\vbSenControl2.vbproj.CoreCompileInputs.cache
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\vbSenControl2\vbSenControl2\obj\Debug\vbSenControl2.exe
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\vbSenControl2\vbSenControl2\obj\Debug\vbSenControl2.xml
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\vbSenControl2\vbSenControl2\obj\Debug\vbSenControl2.pdb
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\vbSenControl2\vbSenControl2\obj\Debug\vbSenControl2.ejercicio1.resources
+E:\DAM-2\DOCUMENTOS\DESARROLLO_DE_INTERFACES\UD 3 Lenguaje Visual Basic\Soluciones\vbSenControl2\vbSenControl2\obj\Debug\vbSenControl2.Ejercicio2.resources
